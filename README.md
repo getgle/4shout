@@ -1,6 +1,6 @@
 # 4shout
 A shoutbox written in PHP styled to look like a certain mongolian fishing forum.
-![screenshot](https://raw.githubusercontent.com/js6/4shout/master/screenshot.png "Screenshot")
+![screenshot](https://github.com/getgle/4shout/blob/main/screenshot.png?raw=true "Screenshot")
 ## What do I need to run it?
 The only thing you need is a server with PHP installed.  It's extremely portable as it just writes the posts directly to an HTML file instead of using any databases.
 
